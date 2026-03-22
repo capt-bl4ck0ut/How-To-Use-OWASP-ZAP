@@ -13,4 +13,11 @@ OWASP ZAP có thể tạo ra các yêu cầu tự động để khám phá các 
 # 4. FUZZING
 OWASP ZAP cung cấp khả năng thử nghiệm FUZZING, cho phép gửi các dữ liệu đầu vào không hợp lệ hoặc tương tự nhằm kiểm tra sự ổn định và bảo mật ứng dụng.
 # 5. Reporting
-OWASP ZAP cho phép tạo báo cáo chi tiết về các lỗ hổng bảo mật được tìm thấy trong ứng dụng. Có thể tùy chỉnh định dạng báo cáo và xuất ra các định dạng phổ biến như HTML, XML hay JSON
+OWASP ZAP cho phép tạo báo cáo chi tiết về các lỗ hổng bảo mật được tìm thấy trong ứng dụng. Có thể tùy chỉnh định dạng báo cáo và xuất ra các định dạng phổ biến như HTML, XML hay JSON.
+<img width="825" height="413" alt="image" src="https://github.com/user-attachments/assets/4edfd93f-b1c3-454f-afdc-e8506338747a" /> <br>
+<img width="589" height="338" alt="image" src="https://github.com/user-attachments/assets/4482fed8-0415-428b-889a-d21a415757c7" /> <br>
+## Cách thức hoạt động của các cuộc tấn công OWASP ZAP
+<img width="825" height="442" alt="image" src="https://github.com/user-attachments/assets/a79c7e3a-1566-4cc1-a3d1-86fc35b99e17" />
+## Tổng quan hoạt động
+
+
